@@ -2,10 +2,10 @@
 
 # [1. Introduction - Content](https://github.com/c4arl0s/1IntroductionRysGitTutorial#go-back-to-content)
 
- * [A Brief History of Revision Control](https://github.com/c4arl0s/1IntroductionRysGitTutorial#-a-brief-history-of-revision-control)
- * [The birth of Git](https://github.com/c4arl0s/1IntroductionRysGitTutorial#-the-birth-of-git)
- * [Installation](https://github.com/c4arl0s/1IntroductionRysGitTutorial#-installation)
- * [Get Ready](https://github.com/c4arl0s/1IntroductionRysGitTutorial#-get-ready)
+1. [x] [1. A Brief History of Revision Control](https://github.com/c4arl0s/1IntroductionRysGitTutorial#-a-brief-history-of-revision-control)
+2. [x] [2. The birth of Git](https://github.com/c4arl0s/1IntroductionRysGitTutorial#-the-birth-of-git)
+3. [x] [3. Installation](https://github.com/c4arl0s/1IntroductionRysGitTutorial#-installation)
+4. [x] [4. Get Ready](https://github.com/c4arl0s/1IntroductionRysGitTutorial#-get-ready)
 
 # [1. Introduction](https://github.com/c4arl0s/1IntroductionRysGitTutorial#1-introduction---content)
 
